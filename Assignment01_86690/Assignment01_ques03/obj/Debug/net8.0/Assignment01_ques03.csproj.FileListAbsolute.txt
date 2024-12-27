@@ -1,0 +1,14 @@
+E:\CDAC\Assignments\MS.NET\Assignment01_86690\Assignment01_ques03\bin\Debug\net8.0\Assignment01_ques03.exe
+E:\CDAC\Assignments\MS.NET\Assignment01_86690\Assignment01_ques03\bin\Debug\net8.0\Assignment01_ques03.deps.json
+E:\CDAC\Assignments\MS.NET\Assignment01_86690\Assignment01_ques03\bin\Debug\net8.0\Assignment01_ques03.runtimeconfig.json
+E:\CDAC\Assignments\MS.NET\Assignment01_86690\Assignment01_ques03\bin\Debug\net8.0\Assignment01_ques03.dll
+E:\CDAC\Assignments\MS.NET\Assignment01_86690\Assignment01_ques03\bin\Debug\net8.0\Assignment01_ques03.pdb
+E:\CDAC\Assignments\MS.NET\Assignment01_86690\Assignment01_ques03\obj\Debug\net8.0\Assignment01_ques03.GeneratedMSBuildEditorConfig.editorconfig
+E:\CDAC\Assignments\MS.NET\Assignment01_86690\Assignment01_ques03\obj\Debug\net8.0\Assignment01_ques03.AssemblyInfoInputs.cache
+E:\CDAC\Assignments\MS.NET\Assignment01_86690\Assignment01_ques03\obj\Debug\net8.0\Assignment01_ques03.AssemblyInfo.cs
+E:\CDAC\Assignments\MS.NET\Assignment01_86690\Assignment01_ques03\obj\Debug\net8.0\Assignment01_ques03.csproj.CoreCompileInputs.cache
+E:\CDAC\Assignments\MS.NET\Assignment01_86690\Assignment01_ques03\obj\Debug\net8.0\Assignment01_ques03.dll
+E:\CDAC\Assignments\MS.NET\Assignment01_86690\Assignment01_ques03\obj\Debug\net8.0\refint\Assignment01_ques03.dll
+E:\CDAC\Assignments\MS.NET\Assignment01_86690\Assignment01_ques03\obj\Debug\net8.0\Assignment01_ques03.pdb
+E:\CDAC\Assignments\MS.NET\Assignment01_86690\Assignment01_ques03\obj\Debug\net8.0\Assignment01_ques03.genruntimeconfig.cache
+E:\CDAC\Assignments\MS.NET\Assignment01_86690\Assignment01_ques03\obj\Debug\net8.0\ref\Assignment01_ques03.dll
